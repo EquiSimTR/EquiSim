@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {2}System Requirements}{3}{}%
+\contentsline {section}{\numberline {3}How files are organised}{3}{}%
+\contentsline {section}{\numberline {4}Control scheme}{4}{}%
+\contentsline {section}{\numberline {5}Getting started with software}{5}{}%
+\contentsline {subsection}{\numberline {5.1}The main function}{5}{}%
+\contentsline {section}{\numberline {6}Script files}{8}{}%
+\contentsline {subsection}{\numberline {6.1}\textbf {\texttt {script\_constant}}}{8}{}%
+\contentsline {subsection}{\numberline {6.2}\textbf {\texttt {script\_init\_storage\_qp\_result}}}{8}{}%
+\contentsline {subsection}{\numberline {6.3}\textbf {\texttt {script\_init\_storage\_physical\_model}}}{8}{}%
+\contentsline {subsection}{\numberline {6.4}\textbf {\texttt {script\_init\_storage\_sensor\_dynamics}}}{8}{}%
+\contentsline {section}{\numberline {7}Classes files}{9}{}%
+\contentsline {subsection}{\numberline {7.1}\textbf {\texttt {classdef\_create\_robot}}}{9}{}%
+\contentsline {subsection}{\numberline {7.2}\textbf {\texttt {classdef\_create\_experiment}}}{9}{}%
+\contentsline {subsection}{\numberline {7.3}\textbf {\texttt {classdef\_physical\_model}}}{12}{}%
+\contentsline {subsection}{\numberline {7.4}\textbf {\texttt {classdef\_MPC\_problem\_inputs}}}{13}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
